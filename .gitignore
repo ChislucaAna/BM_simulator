@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+/env/
+
+# Manim render output
+/media/
+
+# VS Code settings (optional)
+.vscode/
